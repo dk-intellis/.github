@@ -27,7 +27,8 @@ Detailed description if needed
 
 ---
 
-### Acceptance Criteria
+### Acceptance Criteria {#ac-id}
+
 Criteria list X
 1. [If I do A.]  
     a. [sub A]  
@@ -47,20 +48,10 @@ Criteria list Y
 
 ### Resources:
 
-
+---
 
 ### Notes
 
+---
 
 
-### Resources:
-
-* [Style-guides and template for a user story](agile-user-story.md)
-* [“Advantages of the “As a user, I want” user story template.”][1]
-* [Scrum guide][4]
-
-
-[1]: http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template
-[2]: http://daringfireball.net/projects/markdown/basics
-[3]: http://scrumguides.org/scrum-guide.html#team-dev
-[4]: http://scrumguides.org/scrum-guide.html
