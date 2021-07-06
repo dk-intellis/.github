@@ -9,7 +9,7 @@ assignees: ''
 
 ## User stories
 
-Quick links: [Summary](#summary) | [Description](#description) | [Acceptance Criteria](#acceptance)| [Resources](#resources)
+Quick links: [Summary](#summary) | [Description](#description) | [Acceptance Criteria](#acceptance criteria)| [Resources](#resources)
 
 ---
 
@@ -28,21 +28,20 @@ Detailed description if needed
 ---
 
 ### Acceptance Criteria
-List X
+Criteria list X
 1. [If I do A.]  
     a. [sub A]  
     b. [sub A]   
 2. [B should happen.]
 
-List Y
+Criteria list Y
 1. [If I do C.]
 2. [D should happen.]
 
-[
+
 - Constraint 1;
 - Constraint 2;
 - Constraint 3.
-]
 
 
 ### Resources:
