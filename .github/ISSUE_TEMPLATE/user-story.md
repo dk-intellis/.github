@@ -27,7 +27,7 @@ Detailed description if needed
 
 ---
 
-### Acceptance Criteria {#ac-id}
+### Acceptance Criteria
 
 Criteria list X
 1. [If I do A.]  
