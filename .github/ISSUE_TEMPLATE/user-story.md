@@ -9,7 +9,7 @@ assignees: ''
 
 ## User stories
 
-Quick links: [Summary](#summary) | [Description](#description) | [Acceptance Criteria](#acceptance)| [Resources](#resources)
+Quick links: [Summary](#summary) | [Description](#description) | [Resources](#resources)
 
 ---
 
