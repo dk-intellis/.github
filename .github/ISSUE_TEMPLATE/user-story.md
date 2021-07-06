@@ -43,6 +43,7 @@ Criteria list Y
 - Constraint 2;
 - Constraint 3.
 
+---
 
 ### Resources:
 
