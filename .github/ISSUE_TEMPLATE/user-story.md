@@ -15,34 +15,17 @@ Quick links: [Summary](#summary) | [Description](#description) | [Resources](#re
 
 ### Summary
 
-As a [user concerned by the story]  
-I want [goal of the story]  
-so that [reason for the story]  
+Som bruger vil jeg gerne
 
 ---
 
 ### Description
 
-Detailed description if needed
 
 ---
 
 ### Acceptance Criteria
 
-Criteria list X
-1. [If I do A.]  
-    a. [sub A]  
-    b. [sub A]   
-2. [B should happen.]
-
-Criteria list Y
-1. [If I do C.]
-2. [D should happen.]
-
-List of constraints
-- Constraint 1;
-- Constraint 2;
-- Constraint 3.
 
 ---
 
